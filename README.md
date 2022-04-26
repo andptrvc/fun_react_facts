@@ -1,12 +1,10 @@
-# title(){return this.options.title||this.options.name}
-
-This is the my first projest on react. My path on learning MERN stack.
+## This is the my first projest on react. My path on learning MERN stack.
 
 Quick start:
 
 ```
 $ yarn # npm install
-$ yarn build # npm run build
+$ yarn build # npm run start
 ```
 
 ## Development
